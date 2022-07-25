@@ -20,5 +20,10 @@
   "homepage": "https://github.com/LordVader23/fswd_js#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
   }
 }
