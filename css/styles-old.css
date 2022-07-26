@@ -66,3 +66,27 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+#loginModal .modal-header {
+    background: #512DA8;
+    color: white;
+}
+
+#loginModal .modal-body {
+    background: #D1C4E9; }
+
+#reserveModal .modal-header {
+    background: #512DA8;
+    color: white;
+}
+
+#reserveModal .modal-body {
+    background: #D1C4E9; }
+
+.close {
+    color: #D1C4E9;
+}
+
+.close:hover {
+    color: #D1C4E9;
+}
