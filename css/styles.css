@@ -56,11 +56,13 @@ body {
 #loginModal .modal-header {
   background: #512DA8; }
 
-#loginModal .modal-bode {
+#loginModal .modal-body {
   background: #D1C4E9; }
 
 #reserveModal .modal-header {
   background: #512DA8; }
 
-#reserveModal .modal-bode {
+#reserveModal .modal-body {
   background: #D1C4E9; }
+
+/*# sourceMappingURL=styles.css.map */
